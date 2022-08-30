@@ -1,4 +1,4 @@
-# Netflix_Analysis_and_Recommendation_system
+# Netflix Analysis and Recommendation system
 
 The main objective contains two parts. One is Data analysis and visualization, and another part is building recommendation engine.
 
